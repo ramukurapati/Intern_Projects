@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bfe8614-9800-4f72-aeac-580ecbbd1d7c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/DataEngineering-Playground/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/.idea/DataEngineering-Playground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataEngineering-Playground/.idea/DataEngineering-Playground.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DataEngineering-Playground/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DataEngineering-Playground/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DataEngineering-Playground/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_customers/20250210/customers/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_customers/20250210/customers/.part-00000-0c39ee55-74c2-4d13-80ed-db75812f9ff3-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_customers/20250210/customers/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_customers/20250210/customers/part-00000-0c39ee55-74c2-4d13-80ed-db75812f9ff3-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_order_items/20250210/order_items/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_order_items/20250210/order_items/.part-00000-6b1f499d-92ed-4f8c-905c-e0fae825bc69-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_order_items/20250210/order_items/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_order_items/20250210/order_items/part-00000-6b1f499d-92ed-4f8c-905c-e0fae825bc69-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_orders/20250210/orders/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_orders/20250210/orders/.part-00000-fae4894b-b38e-4026-a2c7-90445b138d2a-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_orders/20250210/orders/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_orders/20250210/orders/part-00000-fae4894b-b38e-4026-a2c7-90445b138d2a-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_products/20250210/products/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_products/20250210/products/.part-00000-5a3db32b-6530-4099-bf99-39af2d191396-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_products/20250210/products/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_landing_zone/bronze_products/20250210/products/part-00000-5a3db32b-6530-4099-bf99-39af2d191396-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/bronze_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataEngineering-Playground/bronze_layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataEngineering-Playground/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/generate_data_with_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataEngineering-Playground/generate_data_with_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/gold_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataEngineering-Playground/gold_layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/id_tracker.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataEngineering-Playground/id_tracker.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/raw_landing_zone/raw_customers/20250210/raw_customers_20250210_121629.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/raw_landing_zone/raw_order_items/20250210/raw_order_items_20250210_121629.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/raw_landing_zone/raw_orders/20250210/raw_orders_20250210_121629.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/raw_landing_zone/raw_products/20250210/raw_products_20250210_121629.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_customers/20250210/customers/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_customers/20250210/customers/.part-00000-b1b92104-031c-436a-a8e2-91d8ecf693b6-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_customers/20250210/customers/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_customers/20250210/customers/part-00000-b1b92104-031c-436a-a8e2-91d8ecf693b6-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_order_items/20250210/order_items/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_order_items/20250210/order_items/.part-00000-5418f05f-5db7-4558-881f-1107bc1aea11-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_order_items/20250210/order_items/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_order_items/20250210/order_items/part-00000-5418f05f-5db7-4558-881f-1107bc1aea11-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_orders/20250210/orders/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_orders/20250210/orders/.part-00000-e5549b4a-9a6d-4363-b04e-c7de33857a08-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_orders/20250210/orders/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_orders/20250210/orders/part-00000-e5549b4a-9a6d-4363-b04e-c7de33857a08-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_products/20250210/products/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_products/20250210/products/.part-00000-fdd87186-4da2-4f92-bce5-bef71ff5bf5f-c000.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_products/20250210/products/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_landing_zone/silver_products/20250210/products/part-00000-fdd87186-4da2-4f92-bce5-bef71ff5bf5f-c000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataEngineering-Playground/silver_layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataEngineering-Playground/silver_layer.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DataEngineering-Playground" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2taP1rT9QrDaUyEsHMCJQ4sRILb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.bronze_layer.executor": "Run",
+    "Python.generate_data_with_config.executor": "Run",
+    "Python.gold_layer.executor": "Run",
+    "Python.silver_layer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/e-commerce",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/ramuk/Intern_Projects",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bfe8614-9800-4f72-aeac-580ecbbd1d7c" name="Changes" comment="" />
+      <created>1740586999986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740586999986</updated>
+    </task>
+    <servers />
+  </component>
+</project>

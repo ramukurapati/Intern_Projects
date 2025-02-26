@@ -1,0 +1,17 @@
+{
+  "paths": {
+    "output_folder": "C:\\Users\\ramuk\\Intern_Project\\Local_medallion_project\\DataEngineering-Playground\\raw_landing_zone",
+    "bronze_folder": "C:\\Users\\ramuk\\Intern_Project\\Local_medallion_project\\DataEngineering-Playground\\bronze_landing_zone",
+    "silver_folder": "C:\\Users\\ramuk\\Intern_Project\\Local_medallion_project\\DataEngineering-Playground\\silver_landing_zone",
+    "gold_folder": "C:\\Users\\ramuk\\Intern_Project\\Local_medallion_project\\DataEngineering-Playground\\gold_landing_zone",
+    "processed_folder": "C:\\Users\\ramuk\\Intern_Project\\Local_medallion_project\\DataEngineering-Playground\\processed",
+    "tracker_file": "C:\\Users\\ramuk\\Intern_Project\\Local_medallion_project\\DataEngineering-Playground\\id_tracker.json",
+    "raw_customers": "C:\\Users\\ramuk\\Intern_Project\\Local_medallion_project\\DataEngineering-Playground\\raw_landing_zone\\raw_customers",
+    "raw_order_items": "C:\\Users\\ramuk\\Intern_Project\\Local_medallion_project\\DataEngineering-Playground\\raw_landing_zone\\raw_order_items",
+    "raw_orders": "C:\\Users\\ramuk\\Intern_Project\\Local_medallion_project\\DataEngineering-Playground\\raw_landing_zone\\raw_orders",
+    "raw_products": "C:\\Users\\ramuk\\Intern_Project\\Local_medallion_project\\DataEngineering-Playground\\raw_landing_zone\\raw_products"
+  },
+  "data_settings": {
+    "num_rows_per_table": 5000
+  }
+}

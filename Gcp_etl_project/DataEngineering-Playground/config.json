@@ -1,0 +1,16 @@
+{
+  "paths": {
+    "output_folder": "gs://intern-medallion-architecture/DataEngineering-Playground/raw_landing_zone",
+    "bronze_folder": "gs://intern-medallion-architecture/DataEngineering-Playground/bronze_landing_zone",
+    "silver_folder": "gs://intern-medallion-architecture/DataEngineering-Playground/silver_landing_zone",
+    "gold_folder": "gs://intern-medallion-architecture/DataEngineering-Playground/gold_landing_zone",
+    "tracker_file": "gs://intern-medallion-architecture/DataEngineering-Playground/id_tracker.json",
+    "raw_customers": "gs://intern-medallion-architecture/DataEngineering-Playground/raw_customers/",
+    "raw_order_items": "gs://intern-medallion-architecture/DataEngineering-Playground/raw_order_items/",
+    "raw_orders": "gs://intern-medallion-architecture/DataEngineering-Playground/raw_orders/",
+    "raw_products": "gs://intern-medallion-architecture/DataEngineering-Playground/raw_products/"
+  },
+  "data_settings": {
+    "num_rows_per_table": 5000
+  }
+}

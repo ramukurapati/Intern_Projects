@@ -1,0 +1,6 @@
+{
+  "customers": 30000,
+  "products": 30000,
+  "orders": 30000,
+  "order_items": 30000
+}

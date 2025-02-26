@@ -1,0 +1,68 @@
+{
+  "tables": [
+    {
+      "database": "internproject",
+      "table_name": "housing_data",
+      "columns": [
+        {"name": "price", "type": "bigint"},
+        {"name": "area", "type": "bigint"},
+        {"name": "bedrooms", "type": "bigint"},
+        {"name": "bathrooms", "type": "bigint"},
+        {"name": "stories", "type": "bigint"},
+        {"name": "mainroad", "type": "string"},
+        {"name": "guestroom", "type": "string"},
+        {"name": "basement", "type": "string"},
+        {"name": "hotwaterheating", "type": "string"},
+        {"name": "airconditioning", "type": "string"},
+        {"name": "parking", "type": "bigint"},
+        {"name": "prefarea", "type": "string"},
+        {"name": "furnishingstatus", "type": "string"}
+      ],
+      "s3_housing_data_location": "s3://parquetfiles-input-load/parquetfiles/housing-data/",
+      "housing_data_output_location": "s3://athenaquery-output-files/athenaquery-output/athena-housing-output/"
+    },
+    {
+      "database": "internproject",
+      "table_name": "iris_data",
+      "columns": [
+        {"name": "sepal_length", "type": "double"},
+        {"name": "sepal_width", "type": "double"},
+        {"name": "petal_length", "type": "double"},
+        {"name": "petal_width", "type": "double"},
+        {"name": "variety", "type": "string"}
+      ],
+      "s3_iris_data_location": "s3://parquetfiles-input-load/paquetfiles/iris-data/",
+      "iris_data_output_location": "s3://athenaquery-output-files/athenaquery-output/athena-iris-output/"
+    },
+    {
+      "database": "internproject",
+      "table_name": "weather_data",
+      "columns": [
+        {"name": "MinTemp", "type": "double"},
+        {"name": "MaxTemp", "type": "double"},
+        {"name": "Rainfall", "type": "double"},
+        {"name": "Evaporation", "type": "double"},
+        {"name": "Sunshine", "type": "string"},
+        {"name": "WindGustDir", "type": "string"},
+        {"name": "WindGustSpeed", "type": "string"},
+        {"name": "WindDir9am", "type": "string"},
+        {"name": "WindDir3pm", "type": "string"},
+        {"name": "WindSpeed9am", "type": "string"},
+        {"name": "WindSpeed3pm", "type": "bigint"},
+        {"name": "Humidity9am", "type": "bigint"},
+        {"name": "Humidity3pm", "type": "bigint"},
+        {"name": "Pressure9am", "type": "double"},
+        {"name": "Pressure3pm", "type": "double"},
+        {"name": "Cloud9am", "type": "bigint"},
+        {"name": "Cloud3pm", "type": "bigint"},
+        {"name": "Temp9am", "type": "double"},
+        {"name": "Temp3pm", "type": "double"},
+        {"name": "RainToday", "type": "string"},
+        {"name": "RISK_MM", "type": "double"},
+        {"name": "RainTomorrow", "type": "string"}
+      ],
+      "s3_weather_data_location": "s3://parquetfiles-input-load/parquetfiles/weather-data/",
+      "weather_data_output_location": "s3://athenaquery-output-files/athenaquery-output/athena-weather-output/"
+    }
+  ]
+}

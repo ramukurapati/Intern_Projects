@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aws_etl_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Gcp_etl_project/DataEngineering-Playground" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Local_medallion_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Local_medallion_project/DataEngineering-Playground" vcs="Git" />
+  </component>
+</project>
